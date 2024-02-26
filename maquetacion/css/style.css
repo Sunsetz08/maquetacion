@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: auto;
+    padding: 2em;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-family:'Lucida Sans', Verdana, sans-serif;
+}
+
+.row{
+    padding: 1rem;
+}
+
+.barra{
+    background-color: #00ddff;
+}
+
+.cajaBorde{
+    border-style: solid;
+    border-color: #00ddff;
+    height: 30vh;
+}
